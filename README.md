@@ -1,5 +1,12 @@
 # Customer Purchase Analysis – SQL + Google Sheets Dashboard  
 
+![SQL](https://img.shields.io/badge/SQL-Queries-blue?logo=sqlite&logoColor=white)  
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-Dashboard-brightgreen?logo=googlesheets&logoColor=white)  
+![Data Analysis](https://img.shields.io/badge/Data-Analysis-orange?logo=databricks&logoColor=white)  
+![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-yellow?logo=powerbi&logoColor=black)  
+![Dashboard](https://img.shields.io/badge/Dashboard-Visualization-success?logo=tableau&logoColor=white)  
+
+
 ## 📑 Table of Contents  
 - [Project Overview](#-project-overview)  
 - [Features](#-features)  
