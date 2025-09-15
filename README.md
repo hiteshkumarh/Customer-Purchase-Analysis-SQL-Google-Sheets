@@ -64,7 +64,7 @@ The processed results were exported into **CSV** format and visualized through a
 │   └── ...  
 ├── dashboard/             # Dashboard files (PDF/Sheets)  
 │   └── Dasboard - Dashboard.pdf  
-├── screenshots/           # Dashboard preview images (add here)  
+├         
 └── README.md              # Documentation  
 
 ```
