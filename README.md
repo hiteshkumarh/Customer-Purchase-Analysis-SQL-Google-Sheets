@@ -30,11 +30,6 @@ The processed results were exported into **CSV** format and visualized through a
 - Visual representation of total sales, category performance, and customer segmentation.  
 - Easy-to-use design for non-technical stakeholders.  
 
----
-
-## 📷 Dashboard Preview  
-![Dashboard Screenshot](screenshots/dashboard.png)  
-*(Replace with actual screenshot from your PDF/dashboard)*  
 
 ---
 
@@ -55,3 +50,31 @@ The processed results were exported into **CSV** format and visualized through a
 ---
 
 ## 📂 Repository Structure  
+├── sql/                   # Final SQL queries
+│   ├── analysis_queries.sql
+│   └── ...
+├── dataset/               # Raw datasets
+│   ├── customer_purchase_dataset.csv
+│   └── ...
+├── output/                # CSV outputs and reports
+│   ├── Monthly_Sales_Trend.csv
+│   ├── high_spenders.csv
+│   ├── Top_10_Customers_by_Spending.csv
+│   └── ...
+├── dashboard/             # Dashboard files (PDF/Sheets)
+│   └── Dasboard - Dashboard.pdf
+├── screenshots/           # Dashboard preview images (add here)
+└── README.md              # Documentation
+
+
+---
+
+## 📈 Results & Impact  
+- Transformed raw data into **actionable insights**.  
+- Enabled **data-driven decision-making** through visual KPIs.  
+- Delivered an end-to-end project showcasing **SQL + visualization skills**.  
+
+---
+
+**Tags:** #SQL #Dashboard #DataAnalysis #GoogleSheets #BusinessIntelligence  
+
