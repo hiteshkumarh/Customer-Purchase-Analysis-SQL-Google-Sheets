@@ -1,4 +1,4 @@
-#Customer Purchase Analysis (SQL-Google-Sheets)📊
+# Customer Purchase Analysis (SQL-Google-Sheets)📊
 
 This project involved designing and executing a comprehensive data analysis pipeline to derive key business insights from a customer purchase dataset. Using SQL, I performed data manipulation and aggregation to calculate critical Key Performance Indicators (KPIs) and identify sales trends. The results were then exported and visualized in an interactive Google Sheets dashboard to provide a clear, high-level overview of customer behavior.
 
