@@ -48,23 +48,25 @@ The processed results were exported into **CSV** format and visualized through a
 - Segregated **high vs. low spenders** for anomaly detection.  
 
 ---
-
 ## 📂 Repository Structure  
-├── sql/                   # Final SQL queries
-│   ├── analysis_queries.sql
-│   └── ...
-├── dataset/               # Raw datasets
-│   ├── customer_purchase_dataset.csv
-│   └── ...
-├── output/                # CSV outputs and reports
-│   ├── Monthly_Sales_Trend.csv
-│   ├── high_spenders.csv
-│   ├── Top_10_Customers_by_Spending.csv
-│   └── ...
-├── dashboard/             # Dashboard files (PDF/Sheets)
-│   └── Dasboard - Dashboard.pdf
-├── screenshots/           # Dashboard preview images (add here)
-└── README.md              # Documentation
+
+```text
+├── sql/                   # Final SQL queries  
+│   ├── analysis_queries.sql  
+│   └── ...  
+├── dataset/               # Raw datasets  
+│   ├── customer_purchase_dataset.csv  
+│   └── ...  
+├── output/                # CSV outputs and reports  
+│   ├── Monthly_Sales_Trend.csv  
+│   ├── high_spenders.csv  
+│   ├── Top_10_Customers_by_Spending.csv  
+│   └── ...  
+├── dashboard/             # Dashboard files (PDF/Sheets)  
+│   └── Dasboard - Dashboard.pdf  
+├── screenshots/           # Dashboard preview images (add here)  
+└── README.md              # Documentation  
+
 
 
 ---
