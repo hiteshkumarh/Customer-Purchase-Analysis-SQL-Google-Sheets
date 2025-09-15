@@ -77,5 +77,6 @@ The processed results were exported into **CSV** format and visualized through a
 
 ---
 
-**Tags:** #SQL #Dashboard #DataAnalysis #GoogleSheets #BusinessIntelligence  
+**Tags:** 
+# SQL # Dashboard # DataAnalysis # GoogleSheets # BusinessIntelligence  
 
